@@ -1,0 +1,14 @@
+{
+  "name": "バスケ ライセンス学習",
+  "short_name": "バスケ学習",
+  "description": "バスケットボールの審判・コーチライセンス取得に向けた学習アプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f2",
+  "theme_color": "#ea6a1f",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
